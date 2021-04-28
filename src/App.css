@@ -1,0 +1,31 @@
+.nav
+{
+  background: rgb(124, 24, 24) !important;
+}
+.nav-link
+{
+  color: white;
+  text-decoration: none;
+}
+.nav-item
+{
+  color: maroon;
+  font-weight: bold;
+  text-decoration: none;
+}
+.right
+{
+  position: absolute !important;
+  right: 10px;
+}
+.img-responsive
+{
+  width: 100%;
+}
+.img{
+  background: url('./component/images/food1.jpg');
+  height: 500px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
